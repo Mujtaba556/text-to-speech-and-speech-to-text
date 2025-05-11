@@ -1,2 +1,3 @@
 # text-to-speech-and-speech-to-text
 Project of Text to Speech &amp; Speech to Text Using Python  
+In essence, this code creates a simple application with a main window and two sub-windows.  One sub-window handles converting text to speech, and the other handles converting speech to text.  The gtts library does the text-to-speech conversion, and the speech_recognition library handles the speech-to-text conversion.  The Tkinter library provides the GUI framework.
